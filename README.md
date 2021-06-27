@@ -9,5 +9,5 @@
 **- Done, the tool is sending the views to your SVG view counter**<br>
 ![image](https://user-images.githubusercontent.com/81310818/123549194-3030b080-d768-11eb-96d0-6c2a499144b9.png)<br>
 ![image](https://user-images.githubusercontent.com/81310818/123549179-2149fe00-d768-11eb-891f-328b9966a720.png)<br>
-**Note : It also works on others counters : ![image](https://user-images.githubusercontent.com/81310818/123549413-2f4c4e80-d769-11eb-94a6-16f179a150e0.png)**<br>
+**- Note : It also works on others counters : ![image](https://user-images.githubusercontent.com/81310818/123549413-2f4c4e80-d769-11eb-94a6-16f179a150e0.png)**<br>
 > V E N A X
