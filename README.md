@@ -1,4 +1,5 @@
 > # Profile SVG view counter view adder
+> ![Visitor Count](https://profile-counter.glitch.me/{venaxyt}/count.svg)<br>
 **<ins>Usage :</ins>**<br>
 **- Copy your SVG view counter link**<br>
 ![image](https://user-images.githubusercontent.com/81310818/123548714-43428100-d766-11eb-9b95-9b85aebf0e62.png)<br>
