@@ -6,5 +6,6 @@
 **- Paste it in the View Adder**<br>
 ![image](https://user-images.githubusercontent.com/81310818/123548761-771da680-d766-11eb-8d67-2551f48ed68c.png)<br>
 **- Done, the tool is sending the views to your SVG view counter**<br>
-![image](https://user-images.githubusercontent.com/81310818/123549123-e2b44380-d767-11eb-9cd9-5eb8cbab3583.png)<br>
+![image](https://user-images.githubusercontent.com/81310818/123549194-3030b080-d768-11eb-96d0-6c2a499144b9.png)<br>
+![image](https://user-images.githubusercontent.com/81310818/123549179-2149fe00-d768-11eb-891f-328b9966a720.png)<br>
 > V E N A X
